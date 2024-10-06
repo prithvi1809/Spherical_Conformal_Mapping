@@ -37,7 +37,7 @@ This package includes the prototype code for implementing spherical harmonic map
 
 Harmonic maps between genus-0 surfaces are conformal. Thus, this code can be used for computing conformal maps from any genus-0 surface to a unit sphere.
 
-![alt text](data/brain.jpg?raw=true "Spherical harmonic map")
+![alt text](Data/brain.jpg?raw=true "Spherical harmonic map")
 
 ## Build
 
