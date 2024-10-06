@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/prith/Downloads/project3/project3/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\project3.dir\\Subdivision\\Conformal.cpp.obj -c C:\\Users\\prith\\Downloads\\project3\\project3\\Subdivision\\Conformal.cpp",
+  "file": "C:/Users/prith/Downloads/project3/project3/Subdivision/Conformal.cpp",
+  "output": "CMakeFiles/project3.dir/Subdivision/Conformal.cpp.obj"
+}
+]

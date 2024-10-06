@@ -1,0 +1,3 @@
+C:/Users/prith/Downloads/project3/Graphics - Prithvi Shirke Project/CMakeFiles/project3.dir
+C:/Users/prith/Downloads/project3/Graphics - Prithvi Shirke Project/CMakeFiles/edit_cache.dir
+C:/Users/prith/Downloads/project3/Graphics - Prithvi Shirke Project/CMakeFiles/rebuild_cache.dir
